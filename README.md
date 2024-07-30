@@ -18,3 +18,5 @@ different modes/levels:
 2. extract it
 3. open the folder and navigate to the file named "index"
 4. open it in whatever browser you'd like and there you go!
+
+![catcardcraze cover](https://github.com/user-attachments/assets/8127c7c9-6fcd-418f-8f52-a826aba0ef47)
